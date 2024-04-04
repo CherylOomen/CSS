@@ -21,7 +21,7 @@ color:#006600;
 #twee{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/eiland.jpg);
+    background-image: url(eiland.jpg);
     background-size: cover;
     background-position: center;
     }
@@ -34,7 +34,7 @@ color:#006600;
     #vier{
         width: 100px;
         height: 100px;
-        background-image: url(Afb/gras.jpg);
+        background-image: url(gras.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -47,7 +47,7 @@ color: #99FF00;
 #zes{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/palm.jpg);
+    background-image: url(palm.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -60,7 +60,7 @@ color: #663399;
 #acht{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/zand.jpg);
+    background-image: url(zand.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -73,7 +73,7 @@ color: #000033;
 #tien{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/kokosnoot.jpg);
+    background-image: url(kokosnoot.jpg);
     background-size: cover;
     background-position: center;
     }
@@ -86,7 +86,7 @@ color: #9900FF;
 #twaalf{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/zonsondergang.jpg);
+    background-image: url(zonsondergang.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -99,7 +99,7 @@ color: #FF00FF;
 #veertien{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/banaan.jpg);
+    background-image: url(banaan.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -112,7 +112,7 @@ color: #FF3333;
 #zestien{
     width: 100px;
     height: 100px;
-    background-image: url(Afb/waterval.jpg);
+    background-image: url(waterval.jpg);
     background-size: cover;
     background-position: center;
 }
